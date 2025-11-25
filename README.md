@@ -84,7 +84,9 @@ The analysis follows a strict six-step quantitative workflow:
 
 ---
 
-## 👤 Author
+## 👤 Contact
 
-**Rashad**
-*   [View Project on GitHub Pages](https://rashad1019.github.io/Quantitative_Analysis/)
+**Author:** Rashad Ferguson
+
+📧 **Email:** [Rashad19@outlook.com](mailto:Rashad19@outlook.com)
+🌐 **GitHub:** [github.com/Rashad1019](https://github.com/Rashad1019)
